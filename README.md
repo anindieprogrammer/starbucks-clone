@@ -24,7 +24,7 @@ This is a clone of Starbucks' website.
 
 ### Links
 
-- Live Site URL: [Netlify](https://deft-figolla-1dcca9.netlify.app)
+- Live Site URL: [Netlify](https://starbucksclonebysrk.netlify.app/)
 
 ## My process
 
